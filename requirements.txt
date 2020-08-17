@@ -10,5 +10,5 @@ pycparser==2.14
 pymongo==2.8
 python-dateutil==2.4.2
 PyYAML==3.11
-requests==2.3.0
+requests==2.20.0
 six==1.9.0
